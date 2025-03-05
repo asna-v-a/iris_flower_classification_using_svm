@@ -18,8 +18,8 @@ The goal is to train an SVM model to classify iris flowers based on these featur
 ```
 ├── iris_flower_details.csv          # Dataset
 ├── iris_classification.ipynb        # Jupyter Notebook with code
-├── requirements.txt        # List of required libraries
-└── README.md               # Project documentation
+├── requirements.txt                 # List of required libraries
+└── README.md                        # Project documentation
 ```
 
 ## Data Preprocessing
