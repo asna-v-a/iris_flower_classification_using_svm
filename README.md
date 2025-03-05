@@ -12,7 +12,8 @@ The goal is to train an SVM model to classify iris flowers based on these featur
   - Sepal Width (cm)
   - Petal Length (cm)
   - Petal Width (cm)
-- **Target:** Species (Setosa, Versicolor, Virginica)
+- **Target:** 
+  - Species : Setosa, Versicolor, Virginica
 
 ## Project Structure
 ```
